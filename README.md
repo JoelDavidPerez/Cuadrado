@@ -1,4 +1,1 @@
 # Boletin
-# Cuadrado
-# Cuadrado
-# Cuadrado
